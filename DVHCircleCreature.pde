@@ -1,4 +1,4 @@
-class CircleCreature extends Creature {
+class DVHCircleCreature extends Creature {
   float agitation = 0;
    
   void setup() {
