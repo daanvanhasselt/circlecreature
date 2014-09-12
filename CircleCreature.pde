@@ -1,4 +1,4 @@
-class CircleCreature {
+class CircleCreature extends Creature {
   float agitation = 0;
    
   void setup() {
